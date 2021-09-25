@@ -1,4 +1,3 @@
 # CSE110-Lab1  
-Dominik's User Page  
-My favorite programming language is Java since its the first one I learned way back in high school! (its also the programming language I'm most comfortable with)
+Note: first readme (User page) is under add-read-me, second readme is under branch2 (adding a line about my favorite programming language)   
 https://dlovric.github.io/CSE110-Lab1/
